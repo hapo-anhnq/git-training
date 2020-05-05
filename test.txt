@@ -1,1 +1,3 @@
-# git-training exercise 1
+# git-training 
+Task 1
+Task 3
